@@ -9,44 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* MS Robotics, University of Michigan (expected 2025)
-  * CGPA 3.67; Mentor @MHacks 2023, Volunteer @IROS 2023 @M Linguistics, M Dining Staff
-  * Courses: Math for Robotics, Robotics Systems Lab, Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Directed Research
+* University of Michigan – Ann Arbor, MS Robotics (Expected Dec 2024)
+  * CGPA 3.67/4; Mentor @UMich ARV Team @MHacks 2023, Volunteer @IROS 2023 @M|Linguistics, Staff @M|Dining
+  * Courses: Courses: Math for Robotics, Robotics Systems Lab, Foundations of Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Introduction to Innovation, Linear Feedback Control, Directed Research
 
-* BEng Information Technology, University of Mumbai (2023)
+* University of Mumbai, BEng Information Technology (2023)
   * CGPA 9.35/10; Activities: Formula Student Racing, Chess team captain, Rotaract club editor, College magazine editor
+
 
 Experience
 ======
-* Autonomous Robotic Manipulation (ARM) Lab, <em>Student Researcher</em>, <em>Guide: Dr. Dmitry Berenson</em>
-  * ARMLAB studies motion planning, robot manipulation, and human-robot collaboration.
-  * Working on perception systems of the Spot robot developed by Boston Dynamics. 
+* Graduate Student Research Assistant, <em>Autonomous Robotic Manipulation (ARM) Lab</em>, <em>Advisor: Dmitry Berenson</em>
+  * ARM Lab conducts research in motion planning, robot manipulation, SLAM, and human-robot collaboration.
+  * Enhancing visual perception systems of the Spot robot developed by Boston Dynamics; contributing to the Spot SDK. 
+  * Text-based segmentation and 3D reconstruction to detect and manipulate visually occluded objects using Spot.
 
-* Invideo, <em>Software Engineer Intern</em>
-  * Improved NeRF models to generate realistic talking head avatars from a single image with a text script/driving audio.
-  * Deployed services on Modal Labs cloud-compute, as part of invideo's AI suite.
+* Software Engineer Intern, <em>invideo AI</em>
+  * invideo.io is an AI-assisted video creation platform that helps users make professional videos for marketing, promotions, and more.
+  * Improved NeRF models to generate realistic talking head avatars from images and text prompts, as part of invideo's AI suite.
 
-* Indian Institute of Science (IISc Bangalore), <em>Research Intern</em>, <em>Supervisor: Dr. KVS Hari</em>
-  * ‘Domain Adaptive Semantic Segmentation of Indian Road Scenes’ for applications in autonomous driving and navigation systems.
+* Research Intern, <em>Indian Institute of Science (IISc, WIRIN)</em>, <em>Guide: KVS Hari</em>
+  * 'Domain Adaptive Semantic Segmentation of Indian Road Scenes’ for autonomous driving and navigation systems
 
-* Nucsoft, <em>Software Engineer Intern</em>
-  * Developed and deployed an OCR tool to redact ID numbers on Aadhaar cards (similar to Social Security numbers in the US)
+* Software Engineer Intern, <em>Nucsoft</em>
+  * Nucsoft provides end-to-end IT solutions to Banking, Financial Services, and Insurance (BFSI) sector companies.
+  * Developed and deployed an OCR tool on the edge to redact ID numbers on Aadhaar cards (similar to Social Security numbers in the US).
 
-* Mavericks Racing, <em>Autonomous Driving Domain Head</em>
-  * Team leader for developing autonomous systems for Team Mavericks Racing competing in Formula Student events.
-  * Team Achievements: 2nd rank in India @Formula Imperial 2020, 3rd in Design @Formula Green 2021.
+* Autonomous Driving Domain Head, <em>Team Mavericks Racing</em>
+  * Team leader for developing autonomous systems for Mavericks Racing competing in Formula Student events.
+  * Team Achievements: 2nd rank overall @Formula Imperial 2020, 3rd in Design @Formula Green 2021.
   * Created the backbone system for remote deployment of our car by detecting lanes using orange/blue traffic cones on track edges.
-  * Implemented models for monocular depth estimation, video-frame interpolation, and DQN agents.
+  * Implemented models for monocular depth estimation, video-frame interpolation, and DQN agents. 
   
-* JSW Steel, <em>Research Intern</em>
-  * Led a team of 6 building predictive models for mechanical properties of wire rods through thermal variance analysis in manufacturing.
+* Research Intern, <em>JSW Steel</em>
+  * The JSW Group is a leading business conglomerate spanning steel, cement, energy, infrastructure, and more.
+  * Led a team of 6 building Bayesian inference models for mechanical properties of wire rods through thermal analysis in manufacturing.
 
   
 Tech Stack
 ======
-Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, Flask, FastAPI, Django, MongoDB, NoSQL, PostgreSQL, Docker, Kubernetes, TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS2, Fusion360, Rhino 8
+Python, C++, C, Elixir, Golang, R, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, NoSQL, PostgreSQL, Docker, Kubernetes,
+TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS2, Fusion360, Rhino 8, Dynamic Modeling, Computer Vision, Visual Odometry, Gen AI
 
 
 Publications
@@ -68,24 +74,24 @@ and Advances in Engineering and Technology (ICITAET), 2019, pp. 100-106, doi: 10
 Projects
 ======
 
-* Robotics Systems Lab (ROB 550), (code) (video)
+* Robotics Systems Lab (ROB 550)
   * Armlab: CV pipeline integrating forward and inverse kinematics for a 5-DOF robot arm to autonomously sort and stack colored blocks.
   * 1st place in all class competitions and current Robotics Department record holder for most blocks stacked vertically (18).
-  * Botlab: Developed a mobile robot (MBot) with PID control, SLAM, and A* planning for exploration; designed a novel gripper mechanism.
+  * Botlab: Developed a mobile robot (MBot) with PID control, SLAM, A* planning for exploration; designed a novel gripper mechanism.
 
-* Pixel Polyglots: Pronunciation Enhancement in Online Language Learning (EECS 504), (code) (video)
+* Pixel Polyglots: Pronunciation Enhancement in Online Language Learning (EECS 504)
   * Fast/low-GPU personalized deepfakes to visualize pronunciation; modifying latent codes of StyleGAN images for expression correction.
 
-* CGISP —A Centralized Geographic Information System (GIS) for Marine Shipping Ports
+* CGISP — A Centralized Geographic Information System (GIS) for Marine Shipping Ports
   * Satellite-imaging-based traffic management to optimize ship docking, mitigating congestion near port waters and improving efficiency.
 
-* EV Sherlock—Optimization & Workload Analysis of Electric Vehicle Charging Stations, (code)
+* EV Sherlock—Optimization & Workload Analysis of Electric Vehicle Charging Stations
   * App predicting the most optimum locations for installing new EV charging stations in a city, given the distribution of existing stations.
 
   
 Extracurriculars
 ======
 
-* Represented India (and invideo) at the Singapore India Hackathon 2023, held alongside bilateral talks with Singapore as part of India’s G20 Summit presidency.
-* Mentored undergraduate students at HackMIT 2023, the annual hackathon of the Massachusetts Institute of Technology.
-* Winner of the Smart India Hackathon 2022, among 5,000,000+ competing students across India.
+* Represented India at the Singapore India Hackathon 2023, held alongside bilateral talks with Singapore as part of India’s G20 Summit.
+* Winner of the Smart India Hackathon 2022 (hosted by the Ministry of Education) among 5,000,000+ competing students across India.
+* Won a special mention at HackMIT 2021 (for EV Sherlock), later invited to MIT as a student mentor for HackMIT 2023.
