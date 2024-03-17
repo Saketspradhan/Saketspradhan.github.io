@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * University of Michigan – Ann Arbor, MS Robotics (Expected Dec 2024)
-  * CGPA 3.67/4; Mentor @UMich ARV Team @MHacks 2023, Volunteer @IROS 2023 @M|Linguistics, Staff @M|Dining
+  * CGPA 3.67/4; Mentor @UMich ARV Team @MHacks 2023, Volunteer @IROS 2023 @M Linguistics, Staff @M Dining
   * Courses: Courses: Math for Robotics, Robotics Systems Lab, Foundations of Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Introduction to Innovation, Linear Feedback Control, Directed Research
 
 * University of Mumbai, BEng Information Technology (2023)
