@@ -12,21 +12,24 @@ redirect_from:
 
 Education
 ======
-* University of Michigan – Ann Arbor, MS Robotics (Expected Dec 2024)
-  * CGPA 3.67/4; Mentor @UMich ARV Team @MHacks 2023, Volunteer @IROS 2023 @M Linguistics, Staff @M Dining
-  * Courses: Courses: Math for Robotics, Robotics Systems Lab, Foundations of Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Introduction to Innovation, Linear Feedback Control, Directed Research
+* University of Michigan – Ann Arbor, MS Robotics (Dec 2024)
+  * CGPA: 3.83/4
+  * Courses: Math for Robotics, Robotics Systems Lab, Computer Vision, Mobile Robotics, Self-Driving Cars, Deep Learning, Linear Feedback Control, Directed Research
+  * Mentor @ARV Team, MHacks 2023/24; Volunteer @IROS 2023; M Linguistics, Staff @M Dining
 
-* University of Mumbai, BEng Information Technology (2023)
-  * CGPA 9.35/10; Activities: Formula Student Racing, Chess team captain, Rotaract club editor, College magazine editor
+
+* Czech Technical University in Prague (Jul 2024)
+  * Summer School on Multi-Robot Systems
+  * Designed control algorithms for coordinating multi-robot UAVs, enabling synchronized operations and search
+
+  
+* University of Mumbai, BEng Information Technology (Jul 2023)
+  * CGPA 9.35/10
+  * Activities: Formula Student Racing, Chess team captain, Rotaract club editor, College magazine editor
 
 
 Experience
 ======
-* Graduate Student Research Assistant, <em>Autonomous Robotic Manipulation (ARM) Lab</em>, <em>Advisor: Dmitry Berenson</em>
-  * ARM Lab conducts research in motion planning, robot manipulation, SLAM, and human-robot collaboration.
-  * Enhancing visual perception systems of the Spot robot developed by Boston Dynamics; contributing to the Spot SDK. 
-  * Text-based segmentation and 3D reconstruction to detect and manipulate visually occluded objects using Spot.
-
 * Software Engineer Intern, <em>invideo AI</em>
   * invideo.io is an AI-assisted video creation platform that helps users make professional videos for marketing, promotions, and more.
   * Improved NeRF models to generate realistic talking head avatars from images and text prompts, as part of invideo's AI suite.
@@ -47,7 +50,12 @@ Experience
 * Research Intern, <em>JSW Steel</em>
   * The JSW Group is a leading business conglomerate spanning steel, cement, energy, infrastructure, and more.
   * Led a team of 6 building Bayesian inference models for mechanical properties of wire rods through thermal analysis in manufacturing.
-
+ 
+* Graduate Student Research Assistant, <em>Autonomous Robotic Manipulation (ARM) Lab</em>, <em>Advisor: Dmitry Berenson</em>
+  * ARM Lab conducts research in motion planning, robot manipulation, SLAM, and human-robot collaboration.
+  * Enhancing visual perception systems of the Spot robot developed by Boston Dynamics; contributing to the Spot SDK. 
+  * Text-based segmentation and 3D reconstruction to detect and manipulate visually occluded objects using Spot.
+  
   
 Tech Stack
 ======
